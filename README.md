@@ -94,6 +94,7 @@
 | **cloudformation** | Clear summary. | [Try on MCPxel](https://mcpxel.com/skills/cloudformation) / [Source](https://github.com/itsmostafa/aws-agent-skills) |
 | **bedrock** | Clear summary. | [Try on MCPxel](https://mcpxel.com/skills/bedrock) / [Source](https://github.com/itsmostafa/aws-agent-skills) |
 | **api-gateway** | Clear summary. | [Try on MCPxel](https://mcpxel.com/skills/api-gateway) / [Source](https://github.com/itsmostafa/aws-agent-skills) |
+| **ui-ux-pro-max** | A comprehensive tool for UI/UX design, offering styles, palettes, and best practices across multiple frameworks. | [Try on MCPxel](https://mcpxel.com/skills/ui-ux-pro-max) / [Source](https://github.com/zhom/donutbrowser) |
 | **ios-simulator-skill** | This skill automates iOS app testing and building using semantic navigation for robust interactions. | [Try on MCPxel](https://mcpxel.com/skills/ios-simulator-skill) / [Source](https://github.com/conorluddy/ios-simulator-skill) |
 | **kaizen** | A Co-Pilot skill that applies Kaizen and Poka-Yoke principles to guide incremental code improvements, error-proofing, and adherence to established ... | [Try on MCPxel](https://mcpxel.com/skills/kaizen) / [Source](https://github.com/NeoLabHQ/context-engineering-kit) |
 | **software-architecture** | A comprehensive guide for quality-focused software architecture and development practices. | [Try on MCPxel](https://mcpxel.com/skills/software-architecture) / [Source](https://github.com/NeoLabHQ/context-engineering-kit) |
